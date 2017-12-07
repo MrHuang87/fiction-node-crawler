@@ -1,0 +1,39 @@
+Arguments: 
+  /home/wanfan/.nvm/versions/node/v8.2.1/bin/node /home/wanfan/.nvm/versions/node/v8.2.1/bin/yarn add request
+
+PATH: 
+  /home/wanfan/.sdkman/candidates/springboot/current/bin:/home/wanfan/.sdkman/candidates/java/current/bin:/home/wanfan/.nvm/versions/node/v8.2.1/bin:/home/wanfan/soft/groovy-2.4.12/bin:/home/wanfan/soft/gradle-3.1/bin:/home/wanfan/.bin:/home/wanfan/soft/apache-maven-3.5.0/bin:/home/wanfan/soft/jdk1.8.0_111/bin:/home/wanfan/bin:/home/wanfan/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:Yarn requires Node.js 4.0 or higher to be installed.:/home/wanfan/.config/yarn/global/node_modules/.bin
+
+Yarn version: 
+  0.27.5
+
+Node version: 
+  8.2.1
+
+Platform: 
+  linux x64
+
+npm manifest: 
+  {
+    "name": "fiction-node-crawler",
+    "version": "0.0.1",
+    "description": "爬自己想看的小说",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "小说"
+    ],
+    "author": "Matthew Huang",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: EROFS: read-only file system, symlink '../../../sshpk/bin/sshpk-conv' -> '/media/sf_share/crawler/fiction-node-crawler/node_modules/http-signature/node_modules/.bin/sshpk-conv'
