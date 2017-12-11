@@ -1,0 +1,10 @@
+{
+    "siteEncoding": "GBK",
+    "fictionRepository": "/media/sf_share/fiction",
+    "host": "www.piaotian.com",
+    "searchPagePath": "modules/article/search.php",
+    "searchCondition": {
+        "name": "大道朝天",
+        "author": "猫腻"
+    }
+}
