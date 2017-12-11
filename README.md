@@ -35,5 +35,5 @@ $row.find('td:eq(0)').text()
 ```
 cheerio写法
 ```
-
+$row.find('td').eq(0).text()
 ```
